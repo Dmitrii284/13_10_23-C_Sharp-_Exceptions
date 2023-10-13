@@ -5,6 +5,11 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_10_23 C_Sharp _Exceptions", "13_10_23 C_Sharp _Exceptions\13_10_23 C_Sharp _Exceptions.csproj", "{B2B4843D-5091-4A9D-B017-93EAC23A2DD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{B1BD8339-7408-45D8-A7E1-185D01BF4FF5}"
+	ProjectSection(SolutionItems) = preProject
+		DZ_C__week_3_1490359396.pdf = DZ_C__week_3_1490359396.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
